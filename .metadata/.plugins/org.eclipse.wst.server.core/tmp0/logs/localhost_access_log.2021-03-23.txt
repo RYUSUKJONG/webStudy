@@ -1,0 +1,8 @@
+127.0.0.1 - - [23/Mar/2021:17:58:06 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:17:58:07 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:29:34 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 834
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:29:55 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 844
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:29:55 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 844
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:30:04 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 872
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:30:04 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 872
+0:0:0:0:0:0:0:1 - - [23/Mar/2021:18:30:04 +0900] "GET /Chapter_14/ex02_direction_taglib.jsp HTTP/1.1" 200 872

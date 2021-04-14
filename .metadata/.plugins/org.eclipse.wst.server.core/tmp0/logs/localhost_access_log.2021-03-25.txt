@@ -1,0 +1,10 @@
+127.0.0.1 - - [25/Mar/2021:15:33:51 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:33:52 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 775
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:33:53 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:39:57 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 921
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:40:27 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 940
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:42:56 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:42:57 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:46:20 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:46:20 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:15:46:21 +0900] "GET /Chapter_14/ex03_direction_include.jsp HTTP/1.1" 200 1049
